@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f96c60f7-9714-4263-bac0-bc0db3890156" name="Changes" comment="while true 1,2,3">
-      <change afterPath="$PROJECT_DIR$/for range.py" afterDir="false" />
-    </list>
+    <list default="true" id="f96c60f7-9714-4263-bac0-bc0db3890156" name="Changes" comment="for range" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,13 +102,22 @@
       <option name="project" value="LOCAL" />
       <updated>1769627986907</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="for range">
+      <option name="closed" value="true" />
+      <created>1769628739234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769628739234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
     <MESSAGE value="while true 1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="while true 1,2,3" />
+    <MESSAGE value="for range" />
+    <option name="LAST_COMMIT_MESSAGE" value="for range" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
